@@ -8,7 +8,7 @@ body{
 .pre-title {
     float: left;
     display: block;
-    width: 18%;
+    width: 19%;
     margin : 10% 10% 5%;
     overflow: auto;
 }
@@ -68,7 +68,7 @@ body{
 }
 
 .pre-title h1:nth-child(2) {
-    width: 2.6em;
+    width: 3.6em;
     opacity: 0;
     -webkit-animation: type2 1s steps(40, end),blink .1s step-end infinite alternate;
     animation: type2 1s steps(40, end),blink .1s step-end infinite alternate;
